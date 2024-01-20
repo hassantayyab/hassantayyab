@@ -11,7 +11,7 @@ Angular | React | Test-driven development | Responsive Web Design | UI/UX
 - Working as a Frontend developer for 6 years with my expertise in Angular with TDD 💼
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
 - Ambitious to be an all-rounded Web developer & designer 🦾
-- Feel free to learn more about my experience and expertise in [my CV](https://drive.google.com/file/d/1bPgjtq4Pa0CtwmVP4cJWjKi-4NV0GToN/view?usp=sharing) 📜
+- Feel free to learn more about my experience and expertise in [my CV](https://docs.google.com/document/d/1ZkWMsLCwD5_SHPuQquWmxDJcrKGafqUVjUq25bus5zI/edit?usp=sharing) 📜
 
 ‼️ Actively looking for a new frontend developer role at the moment ‼️
 
