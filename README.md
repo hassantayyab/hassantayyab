@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-‼️ Actively looking for a new job opportunity at the moment ‼️
-
 #### I'm Hassan 😉, an enthusiastic web developer and designer dedicated to crafting visually stunning and high-performance websites 💻, ensuring an exceptional user experience 🎈.
 
 > Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer & designer 👨‍🎨.
@@ -11,6 +9,8 @@
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
 - Ambitious to be an all-rounded Web developer & designer 🦾
 - Feel free to learn more about my experience and expertise in [my CV](https://drive.google.com/file/d/1bPgjtq4Pa0CtwmVP4cJWjKi-4NV0GToN/view?usp=sharing) 📜
+
+‼️ Actively looking for a new job opportunity at the moment ‼️
 
 ### My toolbox 🧰
 
