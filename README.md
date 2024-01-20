@@ -5,9 +5,11 @@
 Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer 👷‍♂️ & designer 👨‍🎨.
 
 ### A bit about me 🙂
-- Working as Frontend developer for small to medium-scale companies for 6 years 💼
+- Working as a Frontend developer for 6 years with my current expertise in Angular with TDD 💼
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
 - Ambitious to be an all-rounded Web developer & designer 🦾
+- <span style="color: #d19e11;">Actively looking for a new job opportunity at the moment 🏋️</span>
+- Feel free to learn more about my experience and expertise in [my CV](https://drive.google.com/file/d/1bPgjtq4Pa0CtwmVP4cJWjKi-4NV0GToN/view?usp=sharing) 📜
 
 ### My toolbox 🧰
 
