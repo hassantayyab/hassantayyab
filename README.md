@@ -14,6 +14,8 @@
 
 ### My toolbox 🧰
 
+Angular | React | Test-driven development | Responsive Web Design | UI/UX
+
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
 </div>
