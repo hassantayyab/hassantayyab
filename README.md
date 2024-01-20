@@ -2,12 +2,12 @@
 
 #### I'm Hassan 😉, an enthusiastic web developer and designer dedicated to crafting visually stunning and high-performance websites 💻, ensuring an exceptional user experience 🎈.
 
-Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web designer 👨‍🎨 and developer 👷‍♂️.
+Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer 👷‍♂️ & designer 👨‍🎨.
 
 ### A bit about me 🙂
 - Working as Frontend developer for small to medium-scale companies for 6 years 💼
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
-- Ambitious to be an all-rounded Web designer and developer 🦾
+- Ambitious to be an all-rounded Web developer & designer 🦾
 
 ### My toolbox 🧰
 
