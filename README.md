@@ -10,7 +10,7 @@
 - Ambitious to be an all-rounded Web developer & designer 🦾
 - Feel free to learn more about my experience and expertise in [my CV](https://drive.google.com/file/d/1bPgjtq4Pa0CtwmVP4cJWjKi-4NV0GToN/view?usp=sharing) 📜
 
-‼️ Actively looking for a new job opportunity at the moment ‼️
+‼️ Actively looking for a new frontend developer role at the moment ‼️
 
 ### My toolbox 🧰
 
