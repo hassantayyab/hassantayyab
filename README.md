@@ -5,6 +5,9 @@
 > Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer & designer 👨‍🎨.
 
 ### A bit about me 🙂
+
+Angular | React | Test-driven development | Responsive Web Design | UI/UX
+
 - Working as a Frontend developer for 6 years with my expertise in Angular with TDD 💼
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
 - Ambitious to be an all-rounded Web developer & designer 🦾
@@ -13,8 +16,6 @@
 ‼️ Actively looking for a new frontend developer role at the moment ‼️
 
 ### My toolbox 🧰
-
-Angular | React | Test-driven development | Responsive Web Design | UI/UX
 
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
