@@ -27,8 +27,7 @@ Angular | React | Test-driven development | Responsive Web Design | UI/UX
 
 ## My toolbox 🧰
 
-<div style="display: flex; gap: 12px;">
-  <div style="display: flex; gap: 8px; margin-bottom: 8px;">
+<div style="display: flex; gap: 8px; margin-bottom: 8px;">
   <img width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
 </div>
 
@@ -68,5 +67,4 @@ Angular | React | Test-driven development | Responsive Web Design | UI/UX
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 <!--   <img width="30" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"/> -->
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
-</div>
 </div>
