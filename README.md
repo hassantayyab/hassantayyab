@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/htdogar" target="_blank">
   <img
     src="https://api.daily.dev/devcards/46aa24b02393406999d54e87527a5260.png?r=8wa"
-    width="200"
+    width="160"
     align="right"
     alt="Hassan Tayyab's Dev Card"
   />
