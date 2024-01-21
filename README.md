@@ -16,7 +16,7 @@
 
 ## A bit about me 🙂
 
-Angular | React | Test-driven development | Responsive Web Design | UI/UX
+#### Angular | React | Test-driven development | Responsive Web Design | UI/UX
 
 - Working as a Frontend developer for 6 years with my expertise in Angular with TDD 💼
 - Currently learning UX design, Vue.js, and Kubernetes 🎒
