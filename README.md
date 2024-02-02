@@ -23,8 +23,6 @@
 - Ambitious to be an all-rounded Web developer & designer 🦾
 - Feel free to learn more about my experience and expertise in [my CV](https://docs.google.com/document/d/1ZkWMsLCwD5_SHPuQquWmxDJcrKGafqUVjUq25bus5zI/edit?usp=sharing) 📜
 
-‼️ Actively looking for a new frontend developer role at the moment ‼️
-
 ## My toolbox 🧰
 
 <div style="display: flex; gap: 8px; margin-bottom: 8px;">
