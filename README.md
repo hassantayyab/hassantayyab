@@ -9,10 +9,7 @@
   />
 </a>
 
-### I'm Hassan 😉, Angular engineer who ships fast with AI-assisted development. I am dedicated to crafting visually stunning and high-performance websites 💻, ensuring an exceptional user experience 🎈.
-
-> Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer & designer 👨‍🎨.
-
+### I'm Hassan 😉, Angular engineer who ships fast with AI-assisted development.
 
 ## More about me 🙂
 
