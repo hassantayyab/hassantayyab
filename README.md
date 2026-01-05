@@ -9,19 +9,25 @@
   />
 </a>
 
-### I'm Hassan 😉, an enthusiastic web developer & designer dedicated to crafting visually stunning and high-performance websites 💻, ensuring an exceptional user experience 🎈.
+### I'm Hassan 😉, Angular engineer who ships fast with AI-assisted development. I am dedicated to crafting visually stunning and high-performance websites 💻, ensuring an exceptional user experience 🎈.
 
 > Since childhood, my passion for visual art and creating aesthetically pleasing designs with colors 🖍️ and paper 📄 has been evident. As I delved deeper into computer science, earning a bachelor's degree in the field, I seamlessly melded my love for design and art with technical expertise. This synthesis empowered me to develop user-friendly software, paving the way to an ambitious career as a web developer & designer 👨‍🎨.
 
 
 ## More about me 🙂
 
-#### Angular | React | Test-driven development | Responsive Web Design | UI/UX
+#### Angular | React | NgRx | Test-driven development | Responsive Web Design | UI/UX
 
-- Working as a Frontend developer for 6 years with my expertise in Angular with TDD 💼
-- Currently doing Google UX certification 🎒
-- Ambitious to be an all-rounded Web developer & designer 🦾
-- Feel free to learn more about my experience and expertise in [my CV](https://docs.google.com/document/d/1ZkWMsLCwD5_SHPuQquWmxDJcrKGafqUVjUq25bus5zI/edit?usp=sharing) 📜
+- Angular engineer with 8 years of experience 💼
+- Currently dworking on open-source [Angular AI component library](https://github.com/hassantayyab/angular-ai-kit) 🎒
+
+### What I Write About
+- Angular architecture & performance
+- AI-assisted development workflows
+- Building and shipping products fast
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/hassan-t-dogar/) | [Website](https://hassantayyab.com/) | [Twitter/X](https://x.com/htdogar)
 
 ## My toolbox 🧰
 
