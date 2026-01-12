@@ -16,7 +16,7 @@
 #### Angular | React | NgRx | Test-driven development | Responsive Web Design | UI/UX
 
 - Angular engineer with 8 years of experience 💼
-- Currently dworking on open-source [Angular AI component library](https://github.com/hassantayyab/angular-ai-kit) 🎒
+- Currently working on open-source [Angular AI component library](https://github.com/hassantayyab/angular-ai-kit) 🎒
 
 ### What I Write About
 - Angular architecture & performance
